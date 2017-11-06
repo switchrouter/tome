@@ -1,3 +1,3 @@
 # P1
 
-# hello, everyone!
+# Hello, everyone!
